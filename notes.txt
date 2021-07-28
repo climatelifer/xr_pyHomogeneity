@@ -1,0 +1,3 @@
+NOTA:
+La función para test de homogeneidad se puede mejorar para hacer que los argumentos de la función original puedas ser introducidos a la nueva función 
+revisar https://docs.python.org/2/library/functools.html#functools.partial, y sus aplicaciones.
